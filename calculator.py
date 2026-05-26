@@ -1,6 +1,0 @@
-num1 = float(input("First number: "))
-num2 = float(input("Second number: "))
-
-print("Sum:", num1 + num2)
-print("Difference:", num1 - num2)
-print("Product:", num1 * num2)
